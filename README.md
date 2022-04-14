@@ -13,6 +13,6 @@ Steps:
                  npm install cypress --save-dev
 3. Once installation is complete, run Cypress using the following command: 
                  npx cypress open
-4. You will see directories have formed within the cypress folder. Copy all the test automation scripts into the Integration folder. 
+4. You will see directories have formed within the cypress folder.Clone(In case you're in my repo)/Copy all the test automation scripts into the Integration folder. 
 
 5. Go to the Cypress runner and run all 7 integrations specs together.
